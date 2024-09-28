@@ -2,7 +2,7 @@
 
 # Demo
 
-![https://youtu.be/CQuzSlD4k5g]
+https://youtu.be/CQuzSlD4k5g
 
 # 소개
 ---
