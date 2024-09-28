@@ -1,6 +1,8 @@
 # AVR-Dino-game
 
-<p align="right">B915093 손주영</p>
+# Demo
+
+![https://youtu.be/CQuzSlD4k5g]
 
 # 소개
 ---
